@@ -1,1 +1,1 @@
-# Classify-Iris-Flowers-Using-ML-Algorithms-
+# Classify-Iris-Flowers-Using-Machine-Learning-Algorithms
